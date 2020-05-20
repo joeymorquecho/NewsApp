@@ -1,12 +1,12 @@
 # NewsApp
 ********************
+NEWS APP
 Joey Morquecho
 Intro to iOS Development
 May 15, 2020
 ********************
 
 * Zip file contains all necessary folders and files. To view app, open .xcodeworkspace file and run project.*
-News App
 
 Has three main tabs/functionalities:
 Your News
