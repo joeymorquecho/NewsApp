@@ -38,3 +38,5 @@ Known Errors:
 *************
 There is a limit to number of requests per minute. I've made the search functionality more efficient for 
 requests but articles will not show up once this limit is hit.
+
+Testing out Git
